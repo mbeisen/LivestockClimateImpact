@@ -1,0 +1,507 @@
+Area Code,Area,Item Code,Item,Element Code,Element,Year Code,Year,Unit,Value,Flag
+5000,World,2617,Apples and products,641,Food supply quantity (tonnes),2013,2013,tonnes,70666583.1,A
+5000,World,2617,Apples and products,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,27.67,Fc
+5000,World,2617,Apples and products,645,Food supply quantity (kg/capita/yr),2013,2013,kg,10.1,Fc
+5000,World,2617,Apples and products,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,12.0,Fc
+5000,World,2617,Apples and products,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.07,Fc
+5000,World,2617,Apples and products,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.06,Fc
+5000,World,2615,Bananas,641,Food supply quantity (tonnes),2013,2013,tonnes,85948248.21,A
+5000,World,2615,Bananas,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,33.65,Fc
+5000,World,2615,Bananas,645,Food supply quantity (kg/capita/yr),2013,2013,kg,12.28,Fc
+5000,World,2615,Bananas,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,21.0,Fc
+5000,World,2615,Bananas,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.27,Fc
+5000,World,2615,Bananas,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.07,Fc
+5000,World,2513,Barley and products,641,Food supply quantity (tonnes),2013,2013,tonnes,6794174.18,A
+5000,World,2513,Barley and products,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,2.66,Fc
+5000,World,2513,Barley and products,645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.97,Fc
+5000,World,2513,Barley and products,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,7.0,Fc
+5000,World,2513,Barley and products,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.19,Fc
+5000,World,2513,Barley and products,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.03,Fc
+5000,World,2546,Beans,641,Food supply quantity (tonnes),2013,2013,tonnes,17416335.39,A
+5000,World,2546,Beans,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,6.82,Fc
+5000,World,2546,Beans,645,Food supply quantity (kg/capita/yr),2013,2013,kg,2.49,Fc
+5000,World,2546,Beans,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,23.0,Fc
+5000,World,2546,Beans,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,1.47,Fc
+5000,World,2546,Beans,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.1,Fc
+5000,World,2656,Beer,641,Food supply quantity (tonnes),2013,2013,tonnes,187049596.0,A
+5000,World,2656,Beer,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,73.24,Fc
+5000,World,2656,Beer,645,Food supply quantity (kg/capita/yr),2013,2013,kg,26.73,Fc
+5000,World,2656,Beer,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,33.0,Fc
+5000,World,2656,Beer,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.32,Fc
+5000,World,2658,"Beverages, Alcoholic",641,Food supply quantity (tonnes),2013,2013,tonnes,21250175.0,A
+5000,World,2658,"Beverages, Alcoholic",646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,8.32,Fc
+5000,World,2658,"Beverages, Alcoholic",645,Food supply quantity (kg/capita/yr),2013,2013,kg,3.04,Fc
+5000,World,2658,"Beverages, Alcoholic",664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,24.0,Fc
+5000,World,2658,"Beverages, Alcoholic",674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.0,Fc
+5000,World,2657,"Beverages, Fermented",641,Food supply quantity (tonnes),2013,2013,tonnes,29406361.0,A
+5000,World,2657,"Beverages, Fermented",646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,11.51,Fc
+5000,World,2657,"Beverages, Fermented",645,Food supply quantity (kg/capita/yr),2013,2013,kg,4.2,Fc
+5000,World,2657,"Beverages, Fermented",664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,5.0,Fc
+5000,World,2657,"Beverages, Fermented",674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.05,Fc
+5000,World,2657,"Beverages, Fermented",684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.0,Fc
+5000,World,2532,Cassava and products,641,Food supply quantity (tonnes),2013,2013,tonnes,100637340.65,A
+5000,World,2532,Cassava and products,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,39.4,Fc
+5000,World,2532,Cassava and products,645,Food supply quantity (kg/capita/yr),2013,2013,kg,14.38,Fc
+5000,World,2532,Cassava and products,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,37.0,Fc
+5000,World,2532,Cassava and products,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.25,Fc
+5000,World,2532,Cassava and products,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.07,Fc
+5000,World,2520,"Cereals, Other",641,Food supply quantity (tonnes),2013,2013,tonnes,5325687.21,A
+5000,World,2520,"Cereals, Other",646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,2.09,Fc
+5000,World,2520,"Cereals, Other",645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.76,Fc
+5000,World,2520,"Cereals, Other",664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,6.0,Fc
+5000,World,2520,"Cereals, Other",674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.18,Fc
+5000,World,2520,"Cereals, Other",684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.02,Fc
+5000,World,2614,"Citrus, Other",641,Food supply quantity (tonnes),2013,2013,tonnes,11366157.19,A
+5000,World,2614,"Citrus, Other",646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,4.45,Fc
+5000,World,2614,"Citrus, Other",645,Food supply quantity (kg/capita/yr),2013,2013,kg,1.62,Fc
+5000,World,2614,"Citrus, Other",664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,1.0,Fc
+5000,World,2614,"Citrus, Other",674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.02,Fc
+5000,World,2614,"Citrus, Other",684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.01,Fc
+5000,World,2642,Cloves,641,Food supply quantity (tonnes),2013,2013,tonnes,52779.0,A
+5000,World,2642,Cloves,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,0.02,Fc
+5000,World,2642,Cloves,645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.01,Fc
+5000,World,2642,Cloves,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,0.0,Fc
+5000,World,2642,Cloves,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.0,Fc
+5000,World,2642,Cloves,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.0,Fc
+5000,World,2633,Cocoa Beans and products,641,Food supply quantity (tonnes),2013,2013,tonnes,4766205.23,A
+5000,World,2633,Cocoa Beans and products,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,1.87,Fc
+5000,World,2633,Cocoa Beans and products,645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.68,Fc
+5000,World,2633,Cocoa Beans and products,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,5.0,Fc
+5000,World,2633,Cocoa Beans and products,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.14,Fc
+5000,World,2633,Cocoa Beans and products,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.43,Fc
+5000,World,2578,Coconut Oil,641,Food supply quantity (tonnes),2013,2013,tonnes,2025995.16,A
+5000,World,2578,Coconut Oil,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,0.79,Fc
+5000,World,2578,Coconut Oil,645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.29,Fc
+5000,World,2578,Coconut Oil,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,7.0,Fc
+5000,World,2578,Coconut Oil,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.0,Fc
+5000,World,2578,Coconut Oil,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.77,Fc
+5000,World,2560,Coconuts - Incl Copra,641,Food supply quantity (tonnes),2013,2013,tonnes,22235818.28,A
+5000,World,2560,Coconuts - Incl Copra,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,8.71,Fc
+5000,World,2560,Coconuts - Incl Copra,645,Food supply quantity (kg/capita/yr),2013,2013,kg,3.18,Fc
+5000,World,2560,Coconuts - Incl Copra,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,12.0,Fc
+5000,World,2560,Coconuts - Incl Copra,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.12,Fc
+5000,World,2560,Coconuts - Incl Copra,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,1.08,Fc
+5000,World,2630,Coffee and products,641,Food supply quantity (tonnes),2013,2013,tonnes,8098536.42,A
+5000,World,2630,Coffee and products,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,3.17,Fc
+5000,World,2630,Coffee and products,645,Food supply quantity (kg/capita/yr),2013,2013,kg,1.16,Fc
+5000,World,2630,Coffee and products,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,1.0,Fc
+5000,World,2630,Coffee and products,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.17,Fc
+5000,World,2575,Cottonseed Oil,641,Food supply quantity (tonnes),2013,2013,tonnes,3940082.39,A
+5000,World,2575,Cottonseed Oil,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,1.54,Fc
+5000,World,2575,Cottonseed Oil,645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.56,Fc
+5000,World,2575,Cottonseed Oil,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,13.0,Fc
+5000,World,2575,Cottonseed Oil,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.0,Fc
+5000,World,2575,Cottonseed Oil,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,1.51,Fc
+5000,World,2619,Dates,641,Food supply quantity (tonnes),2013,2013,tonnes,6500995.74,A
+5000,World,2619,Dates,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,2.55,Fc
+5000,World,2619,Dates,645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.93,Fc
+5000,World,2619,Dates,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,4.0,Fc
+5000,World,2619,Dates,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.04,Fc
+5000,World,2619,Dates,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.01,Fc
+5000,World,2625,"Fruits, Other",641,Food supply quantity (tonnes),2013,2013,tonnes,185478771.27,A
+5000,World,2625,"Fruits, Other",646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,72.62,Fc
+5000,World,2625,"Fruits, Other",645,Food supply quantity (kg/capita/yr),2013,2013,kg,26.51,Fc
+5000,World,2625,"Fruits, Other",664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,31.0,Fc
+5000,World,2625,"Fruits, Other",674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.37,Fc
+5000,World,2625,"Fruits, Other",684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.36,Fc
+5000,World,2613,Grapefruit and products,641,Food supply quantity (tonnes),2013,2013,tonnes,8287175.41,A
+5000,World,2613,Grapefruit and products,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,3.24,Fc
+5000,World,2613,Grapefruit and products,645,Food supply quantity (kg/capita/yr),2013,2013,kg,1.18,Fc
+5000,World,2613,Grapefruit and products,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,1.0,Fc
+5000,World,2613,Grapefruit and products,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.01,Fc
+5000,World,2613,Grapefruit and products,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.0,Fc
+5000,World,2620,Grapes and products (excl wine),641,Food supply quantity (tonnes),2013,2013,tonnes,32107486.87,A
+5000,World,2620,Grapes and products (excl wine),646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,12.57,Fc
+5000,World,2620,Grapes and products (excl wine),645,Food supply quantity (kg/capita/yr),2013,2013,kg,4.59,Fc
+5000,World,2620,Grapes and products (excl wine),664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,7.0,Fc
+5000,World,2620,Grapes and products (excl wine),674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.07,Fc
+5000,World,2620,Grapes and products (excl wine),684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.03,Fc
+5000,World,2572,Groundnut Oil,641,Food supply quantity (tonnes),2013,2013,tonnes,3848449.39,A
+5000,World,2572,Groundnut Oil,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,1.51,Fc
+5000,World,2572,Groundnut Oil,645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.55,Fc
+5000,World,2572,Groundnut Oil,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,13.0,Fc
+5000,World,2572,Groundnut Oil,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.0,Fc
+5000,World,2572,Groundnut Oil,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,1.51,Fc
+5000,World,2820,Groundnuts (in Shell Eq),641,Food supply quantity (tonnes),2013,2013,tonnes,25454833.73,A
+5000,World,2556,Groundnuts (Shelled Eq),641,Food supply quantity (tonnes),2013,2013,tonnes,12212596.66,A
+5000,World,2556,Groundnuts (Shelled Eq),646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,4.78,Fc
+5000,World,2556,Groundnuts (Shelled Eq),645,Food supply quantity (kg/capita/yr),2013,2013,kg,1.75,Fc
+5000,World,2556,Groundnuts (Shelled Eq),664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,25.0,Fc
+5000,World,2556,Groundnuts (Shelled Eq),674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,1.1,Fc
+5000,World,2556,Groundnuts (Shelled Eq),684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,2.11,Fc
+5000,World,2680,Infant food,641,Food supply quantity (tonnes),2013,2013,tonnes,768227.0,A
+5000,World,2680,Infant food,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,0.3,Fc
+5000,World,2680,Infant food,645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.11,Fc
+5000,World,2680,Infant food,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,1.0,Fc
+5000,World,2680,Infant food,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.05,Fc
+5000,World,2680,Infant food,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.01,Fc
+5000,World,2612,"Lemons, Limes and products",641,Food supply quantity (tonnes),2013,2013,tonnes,14192480.66,A
+5000,World,2612,"Lemons, Limes and products",646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,5.56,Fc
+5000,World,2612,"Lemons, Limes and products",645,Food supply quantity (kg/capita/yr),2013,2013,kg,2.03,Fc
+5000,World,2612,"Lemons, Limes and products",664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,1.0,Fc
+5000,World,2612,"Lemons, Limes and products",674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.02,Fc
+5000,World,2612,"Lemons, Limes and products",684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.03,Fc
+5000,World,2514,Maize and products,641,Food supply quantity (tonnes),2013,2013,tonnes,125181123.69,A
+5000,World,2514,Maize and products,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,49.01,Fc
+5000,World,2514,Maize and products,645,Food supply quantity (kg/capita/yr),2013,2013,kg,17.89,Fc
+5000,World,2514,Maize and products,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,147.0,Fc
+5000,World,2514,Maize and products,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,3.58,Fc
+5000,World,2514,Maize and products,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,1.26,Fc
+5000,World,2582,Maize Germ Oil,641,Food supply quantity (tonnes),2013,2013,tonnes,2201195.68,A
+5000,World,2582,Maize Germ Oil,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,0.86,Fc
+5000,World,2582,Maize Germ Oil,645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.31,Fc
+5000,World,2582,Maize Germ Oil,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,8.0,Fc
+5000,World,2582,Maize Germ Oil,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.0,Fc
+5000,World,2582,Maize Germ Oil,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.86,Fc
+5000,World,2517,Millet and products,641,Food supply quantity (tonnes),2013,2013,tonnes,23043935.97,A
+5000,World,2517,Millet and products,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,9.02,Fc
+5000,World,2517,Millet and products,645,Food supply quantity (kg/capita/yr),2013,2013,kg,3.29,Fc
+5000,World,2517,Millet and products,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,27.0,Fc
+5000,World,2517,Millet and products,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.71,Fc
+5000,World,2517,Millet and products,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.28,Fc
+5000,World,2899,Miscellaneous,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,1.0,Fc
+5000,World,2899,Miscellaneous,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.04,Fc
+5000,World,2899,Miscellaneous,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.01,Fc
+5000,World,2544,Molasses,641,Food supply quantity (tonnes),2013,2013,tonnes,44300.0,A
+5000,World,2551,Nuts and products,641,Food supply quantity (tonnes),2013,2013,tonnes,16408449.48,A
+5000,World,2551,Nuts and products,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,6.42,Fc
+5000,World,2551,Nuts and products,645,Food supply quantity (kg/capita/yr),2013,2013,kg,2.34,Fc
+5000,World,2551,Nuts and products,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,16.0,Fc
+5000,World,2551,Nuts and products,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.43,Fc
+5000,World,2551,Nuts and products,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,1.24,Fc
+5000,World,2516,Oats,641,Food supply quantity (tonnes),2013,2013,tonnes,3909401.94,A
+5000,World,2516,Oats,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,1.53,Fc
+5000,World,2516,Oats,645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.56,Fc
+5000,World,2516,Oats,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,3.0,Fc
+5000,World,2516,Oats,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.13,Fc
+5000,World,2516,Oats,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.05,Fc
+5000,World,2586,"Oilcrops Oil, Other",641,Food supply quantity (tonnes),2013,2013,tonnes,1754625.93,A
+5000,World,2586,"Oilcrops Oil, Other",646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,0.69,Fc
+5000,World,2586,"Oilcrops Oil, Other",645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.25,Fc
+5000,World,2586,"Oilcrops Oil, Other",664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,6.0,Fc
+5000,World,2586,"Oilcrops Oil, Other",674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.0,Fc
+5000,World,2586,"Oilcrops Oil, Other",684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.65,Fc
+5000,World,2570,"Oilcrops, Other",641,Food supply quantity (tonnes),2013,2013,tonnes,990727.19,A
+5000,World,2570,"Oilcrops, Other",646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,0.39,Fc
+5000,World,2570,"Oilcrops, Other",645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.14,Fc
+5000,World,2570,"Oilcrops, Other",664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,1.0,Fc
+5000,World,2570,"Oilcrops, Other",674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.08,Fc
+5000,World,2570,"Oilcrops, Other",684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.09,Fc
+5000,World,2580,Olive Oil,641,Food supply quantity (tonnes),2013,2013,tonnes,2779374.31,A
+5000,World,2580,Olive Oil,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,1.09,Fc
+5000,World,2580,Olive Oil,645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.4,Fc
+5000,World,2580,Olive Oil,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,10.0,Fc
+5000,World,2580,Olive Oil,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.0,Fc
+5000,World,2580,Olive Oil,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,1.09,Fc
+5000,World,2563,Olives (including preserved),641,Food supply quantity (tonnes),2013,2013,tonnes,2762215.5,A
+5000,World,2563,Olives (including preserved),646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,1.08,Fc
+5000,World,2563,Olives (including preserved),645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.39,Fc
+5000,World,2563,Olives (including preserved),664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,1.0,Fc
+5000,World,2563,Olives (including preserved),674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.01,Fc
+5000,World,2563,Olives (including preserved),684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.14,Fc
+5000,World,2602,Onions,641,Food supply quantity (tonnes),2013,2013,tonnes,76757091.66,A
+5000,World,2602,Onions,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,30.05,Fc
+5000,World,2602,Onions,645,Food supply quantity (kg/capita/yr),2013,2013,kg,10.97,Fc
+5000,World,2602,Onions,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,11.0,Fc
+5000,World,2602,Onions,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.41,Fc
+5000,World,2602,Onions,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.06,Fc
+5000,World,2611,"Oranges, Mandarines",641,Food supply quantity (tonnes),2013,2013,tonnes,86693489.74,A
+5000,World,2611,"Oranges, Mandarines",646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,33.94,Fc
+5000,World,2611,"Oranges, Mandarines",645,Food supply quantity (kg/capita/yr),2013,2013,kg,12.39,Fc
+5000,World,2611,"Oranges, Mandarines",664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,9.0,Fc
+5000,World,2611,"Oranges, Mandarines",674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.17,Fc
+5000,World,2611,"Oranges, Mandarines",684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.03,Fc
+5000,World,2577,Palm Oil,641,Food supply quantity (tonnes),2013,2013,tonnes,15212349.61,A
+5000,World,2577,Palm Oil,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,5.96,Fc
+5000,World,2577,Palm Oil,645,Food supply quantity (kg/capita/yr),2013,2013,kg,2.17,Fc
+5000,World,2577,Palm Oil,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,52.0,Fc
+5000,World,2577,Palm Oil,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.01,Fc
+5000,World,2577,Palm Oil,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,5.88,Fc
+5000,World,2576,Palmkernel Oil,641,Food supply quantity (tonnes),2013,2013,tonnes,1926585.69,A
+5000,World,2576,Palmkernel Oil,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,0.75,Fc
+5000,World,2576,Palmkernel Oil,645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.28,Fc
+5000,World,2576,Palmkernel Oil,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,7.0,Fc
+5000,World,2576,Palmkernel Oil,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.0,Fc
+5000,World,2576,Palmkernel Oil,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.75,Fc
+5000,World,2547,Peas,641,Food supply quantity (tonnes),2013,2013,tonnes,5833390.1,A
+5000,World,2547,Peas,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,2.28,Fc
+5000,World,2547,Peas,645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.83,Fc
+5000,World,2547,Peas,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,8.0,Fc
+5000,World,2547,Peas,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.51,Fc
+5000,World,2547,Peas,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.03,Fc
+5000,World,2640,Pepper,641,Food supply quantity (tonnes),2013,2013,tonnes,408403.0,A
+5000,World,2640,Pepper,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,0.16,Fc
+5000,World,2640,Pepper,645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.06,Fc
+5000,World,2640,Pepper,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,0.0,Fc
+5000,World,2640,Pepper,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.02,Fc
+5000,World,2640,Pepper,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.0,Fc
+5000,World,2641,Pimento,641,Food supply quantity (tonnes),2013,2013,tonnes,3148947.0,A
+5000,World,2641,Pimento,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,1.23,Fc
+5000,World,2641,Pimento,645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.45,Fc
+5000,World,2641,Pimento,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,4.0,Fc
+5000,World,2641,Pimento,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.15,Fc
+5000,World,2641,Pimento,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.16,Fc
+5000,World,2618,Pineapples and products,641,Food supply quantity (tonnes),2013,2013,tonnes,20769133.98,A
+5000,World,2618,Pineapples and products,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,8.13,Fc
+5000,World,2618,Pineapples and products,645,Food supply quantity (kg/capita/yr),2013,2013,kg,2.97,Fc
+5000,World,2618,Pineapples and products,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,3.0,Fc
+5000,World,2618,Pineapples and products,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.02,Fc
+5000,World,2618,Pineapples and products,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.01,Fc
+5000,World,2616,Plantains,641,Food supply quantity (tonnes),2013,2013,tonnes,22866738.0,A
+5000,World,2616,Plantains,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,8.95,Fc
+5000,World,2616,Plantains,645,Food supply quantity (kg/capita/yr),2013,2013,kg,3.27,Fc
+5000,World,2616,Plantains,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,8.0,Fc
+5000,World,2616,Plantains,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.07,Fc
+5000,World,2616,Plantains,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.02,Fc
+5000,World,2531,Potatoes and products,641,Food supply quantity (tonnes),2013,2013,tonnes,239074576.3,A
+5000,World,2531,Potatoes and products,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,93.61,Fc
+5000,World,2531,Potatoes and products,645,Food supply quantity (kg/capita/yr),2013,2013,kg,34.17,Fc
+5000,World,2531,Potatoes and products,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,64.0,Fc
+5000,World,2531,Potatoes and products,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,1.5,Fc
+5000,World,2531,Potatoes and products,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.1,Fc
+5000,World,2549,"Pulses, Other and products",641,Food supply quantity (tonnes),2013,2013,tonnes,27216972.69,A
+5000,World,2549,"Pulses, Other and products",646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,10.66,Fc
+5000,World,2549,"Pulses, Other and products",645,Food supply quantity (kg/capita/yr),2013,2013,kg,3.89,Fc
+5000,World,2549,"Pulses, Other and products",664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,37.0,Fc
+5000,World,2549,"Pulses, Other and products",674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,2.25,Fc
+5000,World,2549,"Pulses, Other and products",684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.31,Fc
+5000,World,2574,Rape and Mustard Oil,641,Food supply quantity (tonnes),2013,2013,tonnes,9803083.48,A
+5000,World,2574,Rape and Mustard Oil,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,3.84,Fc
+5000,World,2574,Rape and Mustard Oil,645,Food supply quantity (kg/capita/yr),2013,2013,kg,1.4,Fc
+5000,World,2574,Rape and Mustard Oil,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,34.0,Fc
+5000,World,2574,Rape and Mustard Oil,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.0,Fc
+5000,World,2574,Rape and Mustard Oil,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,3.8,Fc
+5000,World,2805,Rice (Milled Equivalent),641,Food supply quantity (tonnes),2013,2013,tonnes,377287277.62,A
+5000,World,2805,Rice (Milled Equivalent),646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,147.72,Fc
+5000,World,2805,Rice (Milled Equivalent),645,Food supply quantity (kg/capita/yr),2013,2013,kg,53.92,Fc
+5000,World,2805,Rice (Milled Equivalent),664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,541.0,Fc
+5000,World,2805,Rice (Milled Equivalent),674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,10.13,Fc
+5000,World,2805,Rice (Milled Equivalent),684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,1.45,Fc
+5000,World,2804,Rice (Paddy Equivalent),641,Food supply quantity (tonnes),2013,2013,tonnes,731604721.38,A
+5000,World,2581,Ricebran Oil,641,Food supply quantity (tonnes),2013,2013,tonnes,845198.13,A
+5000,World,2581,Ricebran Oil,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,0.33,Fc
+5000,World,2581,Ricebran Oil,645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.12,Fc
+5000,World,2581,Ricebran Oil,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,3.0,Fc
+5000,World,2581,Ricebran Oil,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.0,Fc
+5000,World,2581,Ricebran Oil,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.31,Fc
+5000,World,2815,Roots & Tuber Dry Equiv,641,Food supply quantity (tonnes),2013,2013,tonnes,131520344.1,A
+5000,World,2534,"Roots, Other",641,Food supply quantity (tonnes),2013,2013,tonnes,14067924.92,A
+5000,World,2534,"Roots, Other",646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,5.51,Fc
+5000,World,2534,"Roots, Other",645,Food supply quantity (kg/capita/yr),2013,2013,kg,2.01,Fc
+5000,World,2534,"Roots, Other",664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,6.0,Fc
+5000,World,2534,"Roots, Other",674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.08,Fc
+5000,World,2534,"Roots, Other",684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.01,Fc
+5000,World,2515,Rye and products,641,Food supply quantity (tonnes),2013,2013,tonnes,5505418.56,A
+5000,World,2515,Rye and products,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,2.16,Fc
+5000,World,2515,Rye and products,645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.79,Fc
+5000,World,2515,Rye and products,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,6.0,Fc
+5000,World,2515,Rye and products,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.16,Fc
+5000,World,2515,Rye and products,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.03,Fc
+5000,World,2561,Sesame seed,641,Food supply quantity (tonnes),2013,2013,tonnes,1438968.0,A
+5000,World,2561,Sesame seed,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,0.56,Fc
+5000,World,2561,Sesame seed,645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.21,Fc
+5000,World,2561,Sesame seed,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,3.0,Fc
+5000,World,2561,Sesame seed,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.1,Fc
+5000,World,2561,Sesame seed,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.29,Fc
+5000,World,2579,Sesameseed Oil,641,Food supply quantity (tonnes),2013,2013,tonnes,719784.67,A
+5000,World,2579,Sesameseed Oil,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,0.28,Fc
+5000,World,2579,Sesameseed Oil,645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.1,Fc
+5000,World,2579,Sesameseed Oil,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,2.0,Fc
+5000,World,2579,Sesameseed Oil,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.0,Fc
+5000,World,2579,Sesameseed Oil,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.28,Fc
+5000,World,2518,Sorghum and products,641,Food supply quantity (tonnes),2013,2013,tonnes,24151032.91,A
+5000,World,2518,Sorghum and products,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,9.46,Fc
+5000,World,2518,Sorghum and products,645,Food supply quantity (kg/capita/yr),2013,2013,kg,3.45,Fc
+5000,World,2518,Sorghum and products,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,28.0,Fc
+5000,World,2518,Sorghum and products,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.84,Fc
+5000,World,2518,Sorghum and products,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.28,Fc
+5000,World,2571,Soyabean Oil,641,Food supply quantity (tonnes),2013,2013,tonnes,24343095.71,A
+5000,World,2571,Soyabean Oil,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,9.53,Fc
+5000,World,2571,Soyabean Oil,645,Food supply quantity (kg/capita/yr),2013,2013,kg,3.48,Fc
+5000,World,2571,Soyabean Oil,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,82.0,Fc
+5000,World,2571,Soyabean Oil,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.01,Fc
+5000,World,2571,Soyabean Oil,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,9.31,Fc
+5000,World,2555,Soyabeans,641,Food supply quantity (tonnes),2013,2013,tonnes,10648891.62,A
+5000,World,2555,Soyabeans,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,4.17,Fc
+5000,World,2555,Soyabeans,645,Food supply quantity (kg/capita/yr),2013,2013,kg,1.52,Fc
+5000,World,2555,Soyabeans,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,14.0,Fc
+5000,World,2555,Soyabeans,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,1.35,Fc
+5000,World,2555,Soyabeans,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.53,Fc
+5000,World,2645,"Spices, Other",641,Food supply quantity (tonnes),2013,2013,tonnes,5120142.0,A
+5000,World,2645,"Spices, Other",646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,2.0,Fc
+5000,World,2645,"Spices, Other",645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.73,Fc
+5000,World,2645,"Spices, Other",664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,7.0,Fc
+5000,World,2645,"Spices, Other",674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.22,Fc
+5000,World,2645,"Spices, Other",684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.18,Fc
+5000,World,2542,Sugar (Raw Equivalent),641,Food supply quantity (tonnes),2013,2013,tonnes,143645321.09,A
+5000,World,2542,Sugar (Raw Equivalent),646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,56.24,Fc
+5000,World,2542,Sugar (Raw Equivalent),645,Food supply quantity (kg/capita/yr),2013,2013,kg,20.53,Fc
+5000,World,2542,Sugar (Raw Equivalent),664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,200.0,Fc
+5000,World,2537,Sugar beet,641,Food supply quantity (tonnes),2013,2013,tonnes,56961.0,A
+5000,World,2537,Sugar beet,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,0.02,Fc
+5000,World,2537,Sugar beet,645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.01,Fc
+5000,World,2537,Sugar beet,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,0.0,Fc
+5000,World,2537,Sugar beet,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.0,Fc
+5000,World,2537,Sugar beet,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.0,Fc
+5000,World,2536,Sugar cane,641,Food supply quantity (tonnes),2013,2013,tonnes,32188851.0,A
+5000,World,2536,Sugar cane,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,12.6,Fc
+5000,World,2536,Sugar cane,645,Food supply quantity (kg/capita/yr),2013,2013,kg,4.6,Fc
+5000,World,2536,Sugar cane,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,4.0,Fc
+5000,World,2536,Sugar cane,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.02,Fc
+5000,World,2536,Sugar cane,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.02,Fc
+5000,World,2541,Sugar non-centrifugal,641,Food supply quantity (tonnes),2013,2013,tonnes,6777150.77,A
+5000,World,2541,Sugar non-centrifugal,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,2.65,Fc
+5000,World,2541,Sugar non-centrifugal,645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.97,Fc
+5000,World,2541,Sugar non-centrifugal,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,9.0,Fc
+5000,World,2541,Sugar non-centrifugal,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.03,Fc
+5000,World,2541,Sugar non-centrifugal,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.0,Fc
+5000,World,2827,"Sugar, Raw Equivalent",641,Food supply quantity (tonnes),2013,2013,tonnes,183111248.13,A
+5000,World,2818,"Sugar, Refined Equiv",641,Food supply quantity (tonnes),2013,2013,tonnes,142437414.65,A
+5000,World,2557,Sunflower seed,641,Food supply quantity (tonnes),2013,2013,tonnes,560968.0,A
+5000,World,2557,Sunflower seed,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,0.22,Fc
+5000,World,2557,Sunflower seed,645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.08,Fc
+5000,World,2557,Sunflower seed,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,1.0,Fc
+5000,World,2557,Sunflower seed,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.02,Fc
+5000,World,2557,Sunflower seed,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.05,Fc
+5000,World,2573,Sunflowerseed Oil,641,Food supply quantity (tonnes),2013,2013,tonnes,10193431.45,A
+5000,World,2573,Sunflowerseed Oil,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,3.99,Fc
+5000,World,2573,Sunflowerseed Oil,645,Food supply quantity (kg/capita/yr),2013,2013,kg,1.46,Fc
+5000,World,2573,Sunflowerseed Oil,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,35.0,Fc
+5000,World,2573,Sunflowerseed Oil,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.0,Fc
+5000,World,2573,Sunflowerseed Oil,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,3.97,Fc
+5000,World,2533,Sweet potatoes,641,Food supply quantity (tonnes),2013,2013,tonnes,57061369.12,A
+5000,World,2533,Sweet potatoes,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,22.34,Fc
+5000,World,2533,Sweet potatoes,645,Food supply quantity (kg/capita/yr),2013,2013,kg,8.15,Fc
+5000,World,2533,Sweet potatoes,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,22.0,Fc
+5000,World,2533,Sweet potatoes,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.23,Fc
+5000,World,2533,Sweet potatoes,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.06,Fc
+5000,World,2543,"Sweeteners, Other",641,Food supply quantity (tonnes),2013,2013,tonnes,20820666.26,A
+5000,World,2543,"Sweeteners, Other",646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,8.15,Fc
+5000,World,2543,"Sweeteners, Other",645,Food supply quantity (kg/capita/yr),2013,2013,kg,2.98,Fc
+5000,World,2543,"Sweeteners, Other",664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,24.0,Fc
+5000,World,2543,"Sweeteners, Other",674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.01,Fc
+5000,World,2543,"Sweeteners, Other",684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.0,Fc
+5000,World,2635,Tea (including mate),641,Food supply quantity (tonnes),2013,2013,tonnes,5913471.0,A
+5000,World,2635,Tea (including mate),646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,2.32,Fc
+5000,World,2635,Tea (including mate),645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.85,Fc
+5000,World,2635,Tea (including mate),664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,1.0,Fc
+5000,World,2635,Tea (including mate),674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.23,Fc
+5000,World,2601,Tomatoes and products,641,Food supply quantity (tonnes),2013,2013,tonnes,144085953.99,A
+5000,World,2601,Tomatoes and products,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,56.42,Fc
+5000,World,2601,Tomatoes and products,645,Food supply quantity (kg/capita/yr),2013,2013,kg,20.59,Fc
+5000,World,2601,Tomatoes and products,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,11.0,Fc
+5000,World,2601,Tomatoes and products,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.54,Fc
+5000,World,2601,Tomatoes and products,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.14,Fc
+5000,World,2605,"Vegetables, Other",641,Food supply quantity (tonnes),2013,2013,tonnes,762131373.34,A
+5000,World,2605,"Vegetables, Other",646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,298.4,Fc
+5000,World,2605,"Vegetables, Other",645,Food supply quantity (kg/capita/yr),2013,2013,kg,108.92,Fc
+5000,World,2605,"Vegetables, Other",664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,74.0,Fc
+5000,World,2605,"Vegetables, Other",674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,3.96,Fc
+5000,World,2605,"Vegetables, Other",684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.62,Fc
+5000,World,2511,Wheat and products,641,Food supply quantity (tonnes),2013,2013,tonnes,457822809.31,A
+5000,World,2511,Wheat and products,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,179.26,Fc
+5000,World,2511,Wheat and products,645,Food supply quantity (kg/capita/yr),2013,2013,kg,65.43,Fc
+5000,World,2511,Wheat and products,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,527.0,Fc
+5000,World,2511,Wheat and products,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,15.87,Fc
+5000,World,2511,Wheat and products,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,2.43,Fc
+5000,World,2655,Wine,641,Food supply quantity (tonnes),2013,2013,tonnes,22990793.28,A
+5000,World,2655,Wine,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,9.0,Fc
+5000,World,2655,Wine,645,Food supply quantity (kg/capita/yr),2013,2013,kg,3.29,Fc
+5000,World,2655,Wine,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,6.0,Fc
+5000,World,2655,Wine,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.0,Fc
+5000,World,2535,Yams,641,Food supply quantity (tonnes),2013,2013,tonnes,32511925.0,A
+5000,World,2535,Yams,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,12.73,Fc
+5000,World,2535,Yams,645,Food supply quantity (kg/capita/yr),2013,2013,kg,4.65,Fc
+5000,World,2535,Yams,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,13.0,Fc
+5000,World,2535,Yams,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.2,Fc
+5000,World,2535,Yams,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.03,Fc
+5000,World,2924,Alcoholic Beverages,641,Food supply quantity (tonnes),2013,2013,tonnes,260696925.28,A
+5000,World,2924,Alcoholic Beverages,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,102.07,Fc
+5000,World,2924,Alcoholic Beverages,645,Food supply quantity (kg/capita/yr),2013,2013,kg,37.26,Fc
+5000,World,2924,Alcoholic Beverages,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,69.0,Fc
+5000,World,2924,Alcoholic Beverages,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.37,Fc
+5000,World,2924,Alcoholic Beverages,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.0,Fc
+5000,World,2905,Cereals - Excluding Beer,641,Food supply quantity (tonnes),2013,2013,tonnes,1029020861.39,A
+5000,World,2905,Cereals - Excluding Beer,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,402.9,Fc
+5000,World,2905,Cereals - Excluding Beer,645,Food supply quantity (kg/capita/yr),2013,2013,kg,147.06,Fc
+5000,World,2905,Cereals - Excluding Beer,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,1292.0,Fc
+5000,World,2905,Cereals - Excluding Beer,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,31.8,Fc
+5000,World,2905,Cereals - Excluding Beer,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,5.83,Fc
+5000,World,2919,Fruits - Excluding Wine,641,Food supply quantity (tonnes),2013,2013,tonnes,544877260.17,A
+5000,World,2919,Fruits - Excluding Wine,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,213.34,Fc
+5000,World,2919,Fruits - Excluding Wine,645,Food supply quantity (kg/capita/yr),2013,2013,kg,77.87,Fc
+5000,World,2919,Fruits - Excluding Wine,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,97.0,Fc
+5000,World,2919,Fruits - Excluding Wine,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,1.13,Fc
+5000,World,2919,Fruits - Excluding Wine,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.63,Fc
+5000,World,2928,Miscellaneous,641,Food supply quantity (tonnes),2013,2013,tonnes,768227.0,A
+5000,World,2928,Miscellaneous,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,0.3,Fc
+5000,World,2928,Miscellaneous,645,Food supply quantity (kg/capita/yr),2013,2013,kg,0.11,Fc
+5000,World,2928,Miscellaneous,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,2.0,Fc
+5000,World,2928,Miscellaneous,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.08,Fc
+5000,World,2928,Miscellaneous,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.02,Fc
+5000,World,2913,Oilcrops,641,Food supply quantity (tonnes),2013,2013,tonnes,51908699.37,A
+5000,World,2913,Oilcrops,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,20.32,Fc
+5000,World,2913,Oilcrops,645,Food supply quantity (kg/capita/yr),2013,2013,kg,7.42,Fc
+5000,World,2913,Oilcrops,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,60.0,Fc
+5000,World,2913,Oilcrops,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,2.87,Fc
+5000,World,2913,Oilcrops,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,4.46,Fc
+5000,World,2911,Pulses,641,Food supply quantity (tonnes),2013,2013,tonnes,50466698.18,A
+5000,World,2911,Pulses,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,19.76,Fc
+5000,World,2911,Pulses,645,Food supply quantity (kg/capita/yr),2013,2013,kg,7.21,Fc
+5000,World,2911,Pulses,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,68.0,Fc
+5000,World,2911,Pulses,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,4.23,Fc
+5000,World,2911,Pulses,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.44,Fc
+5000,World,2923,Spices,641,Food supply quantity (tonnes),2013,2013,tonnes,8730271.0,A
+5000,World,2923,Spices,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,3.42,Fc
+5000,World,2923,Spices,645,Food supply quantity (kg/capita/yr),2013,2013,kg,1.25,Fc
+5000,World,2923,Spices,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,11.0,Fc
+5000,World,2923,Spices,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.39,Fc
+5000,World,2923,Spices,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.35,Fc
+5000,World,2907,Starchy Roots,641,Food supply quantity (tonnes),2013,2013,tonnes,443353135.99,A
+5000,World,2907,Starchy Roots,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,173.59,Fc
+5000,World,2907,Starchy Roots,645,Food supply quantity (kg/capita/yr),2013,2013,kg,63.36,Fc
+5000,World,2907,Starchy Roots,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,141.0,Fc
+5000,World,2907,Starchy Roots,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,2.27,Fc
+5000,World,2907,Starchy Roots,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.26,Fc
+5000,World,2922,Stimulants,641,Food supply quantity (tonnes),2013,2013,tonnes,18778212.65,A
+5000,World,2922,Stimulants,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,7.35,Fc
+5000,World,2922,Stimulants,645,Food supply quantity (kg/capita/yr),2013,2013,kg,2.68,Fc
+5000,World,2922,Stimulants,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,7.0,Fc
+5000,World,2922,Stimulants,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.54,Fc
+5000,World,2922,Stimulants,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.43,Fc
+5000,World,2909,Sugar & Sweeteners,641,Food supply quantity (tonnes),2013,2013,tonnes,172911816.12,A
+5000,World,2909,Sugar & Sweeteners,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,67.7,Fc
+5000,World,2909,Sugar & Sweeteners,645,Food supply quantity (kg/capita/yr),2013,2013,kg,24.71,Fc
+5000,World,2909,Sugar & Sweeteners,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,236.0,Fc
+5000,World,2909,Sugar & Sweeteners,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.04,Fc
+5000,World,2909,Sugar & Sweeteners,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.01,Fc
+5000,World,2908,Sugar Crops,641,Food supply quantity (tonnes),2013,2013,tonnes,32245812.0,A
+5000,World,2908,Sugar Crops,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,12.63,Fc
+5000,World,2908,Sugar Crops,645,Food supply quantity (kg/capita/yr),2013,2013,kg,4.61,Fc
+5000,World,2908,Sugar Crops,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,4.0,Fc
+5000,World,2908,Sugar Crops,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.02,Fc
+5000,World,2908,Sugar Crops,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.02,Fc
+5000,World,2912,Treenuts,641,Food supply quantity (tonnes),2013,2013,tonnes,16408449.48,A
+5000,World,2912,Treenuts,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,6.42,Fc
+5000,World,2912,Treenuts,645,Food supply quantity (kg/capita/yr),2013,2013,kg,2.34,Fc
+5000,World,2912,Treenuts,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,16.0,Fc
+5000,World,2912,Treenuts,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.43,Fc
+5000,World,2912,Treenuts,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,1.24,Fc
+5000,World,2914,Vegetable Oils,641,Food supply quantity (tonnes),2013,2013,tonnes,79593251.6,A
+5000,World,2914,Vegetable Oils,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,31.16,Fc
+5000,World,2914,Vegetable Oils,645,Food supply quantity (kg/capita/yr),2013,2013,kg,11.37,Fc
+5000,World,2914,Vegetable Oils,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,271.0,Fc
+5000,World,2914,Vegetable Oils,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,0.03,Fc
+5000,World,2914,Vegetable Oils,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,30.69,Fc
+5000,World,2918,Vegetables,641,Food supply quantity (tonnes),2013,2013,tonnes,982974418.99,A
+5000,World,2918,Vegetables,646,Food supply quantity (g/capita/day),2013,2013,g/capita/day,384.87,Fc
+5000,World,2918,Vegetables,645,Food supply quantity (kg/capita/yr),2013,2013,kg,140.48,Fc
+5000,World,2918,Vegetables,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,95.0,Fc
+5000,World,2918,Vegetables,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,4.91,Fc
+5000,World,2918,Vegetables,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,0.81,Fc
+5000,World,2903,Vegetal Products,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,2370.0,Fc
+5000,World,2903,Vegetal Products,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,49.1,Fc
+5000,World,2903,Vegetal Products,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,45.2,Fc
+5000,World,2901,Grand Total,664,Food supply (kcal/capita/day),2013,2013,kcal/capita/day,2884.0,Fc
+5000,World,2901,Grand Total,674,Protein supply quantity (g/capita/day),2013,2013,g/capita/day,81.23,Fc
+5000,World,2901,Grand Total,684,Fat supply quantity (g/capita/day),2013,2013,g/capita/day,82.76,Fc

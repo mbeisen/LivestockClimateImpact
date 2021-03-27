@@ -1,0 +1,56 @@
+Item,Category,Category Weight
+Beef and Buffalo Meat,cattle_meat,0
+Eggs Primary,eggs,0
+"Eggs, hen, in shell",eggs,1
+"Eggs, hen, in shell (number)",eggs,0
+"Eggs, other bird, in shell",eggs,1
+"Eggs, other bird, in shell (number)",eggs,0
+"Meat, Poultry",chicken_meat,0
+"Meat, ass",ass_meat,1
+"Meat, bird nes",chicken_meat,1
+"Meat, buffalo",buffalo_meat,1
+"Meat, camel",camel_meat,1
+"Meat, cattle",cattle_meat,1
+"Meat, chicken",chicken_meat,1
+"Meat, duck",duck_meat,1
+"Meat, goat",goat_meat,1
+"Meat, goose and guinea fowl",duck_meat,1
+"Meat, horse",horse_meat,1
+"Meat, mule",mule_meat,1
+"Meat, other camelids",camel_meat,1
+"Meat, other rodents",rodent_meat,1
+"Meat, pig",pig_meat,1
+"Meat, rabbit",rabbit_meat,1
+"Meat, sheep",sheep_meat,1
+"Meat, turkey",chicken_meat,1
+"Milk, whole fresh buffalo",buffalo_milk,1
+"Milk, whole fresh camel",camel_milk,1
+"Milk, whole fresh cow",cow_milk,1
+"Milk, whole fresh goat",goat_milk,1
+"Milk, whole fresh sheep",sheep_milk,1
+Sheep and Goat Meat,sheep_meat,0
+Butter and Ghee,cow_milk,25
+"Butter and ghee, sheep milk",sheep_milk,25
+"Butter, buffalo milk",buffalo_milk,25
+"Butter, cow milk",cow_milk,25
+"Butter, goat milk",goat_milk,25
+Cheese (All Kinds),cow_milk,10
+"Cheese, buffalo milk",buffalo_milk,10
+"Cheese, goat milk",goat_milk,10
+"Cheese, sheep milk",sheep_milk,10
+"Cheese, skimmed cow milk",cow_milk,10
+"Cheese, whole cow milk",cow_milk,10
+Cream fresh,cow_milk,2
+Evaporat&Condensed Milk,cow_milk,2
+"Ghee, buffalo milk",buffalo_milk,18
+"Ghee, butteroil of cow milk",cow_milk,18
+"Milk, dry buttermilk",cow_milk,10
+"Milk, skimmed condensed",cow_milk,2
+"Milk, skimmed cow",cow_milk,1
+"Milk, skimmed dried",cow_milk,10
+"Milk, skimmed evaporated",cow_milk,2
+"Milk, whole condensed",cow_milk,2
+"Milk, whole dried",cow_milk,10
+"Milk, whole evaporated",cow_milk,2
+"Skim Milk&Buttermilk,Dry",cow_milk,10
+Yoghurt,cow_milk,1.5
