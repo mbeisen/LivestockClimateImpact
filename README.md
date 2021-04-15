@@ -1,4 +1,4 @@
-# meatlessmillennium
+# The Impact of a Meatless M illennium
 
 Data and code for Eisen &amp; Brown (2021) Eliminating Animal Agriculture Would Negate 56 Percent of Anthropogenic Greenhouse Gas Emissions Through 2100.
 
