@@ -3313,73 +3313,73 @@ Area Code,Area,Item Code,Item,Element Code,Element,Year Code,Year,Unit,Value,Fla
 48,Costa Rica,1807,Sheep and Goat Meat,5320,Producing Animals/Slaughtered,2019,2019,Head,2725.0,A
 48,Costa Rica,1807,Sheep and Goat Meat,5417,Yield/Carcass Weight,2019,2019,hg/An,132.0,Fc
 48,Costa Rica,1807,Sheep and Goat Meat,5510,Production,2019,2019,tonnes,36.0,A
-107,C�te d'Ivoire,1062,"Eggs, hen, in shell",5313,Laying,2019,2019,1000 Head,12346.0,Im
-107,C�te d'Ivoire,1062,"Eggs, hen, in shell",5410,Yield,2019,2019,100mg/An,38879.0,Fc
-107,C�te d'Ivoire,1062,"Eggs, hen, in shell",5510,Production,2019,2019,tonnes,48000.0,Im
-107,C�te d'Ivoire,1067,"Eggs, hen, in shell (number)",5513,Production,2019,2019,1000 No,1066660.0,Im
-107,C�te d'Ivoire,869,"Fat, cattle",5320,Producing Animals/Slaughtered,2019,2019,Head,289240.0,Im
-107,C�te d'Ivoire,869,"Fat, cattle",5510,Production,2019,2019,tonnes,937.0,Im
-107,C�te d'Ivoire,1019,"Fat, goats",5320,Producing Animals/Slaughtered,2019,2019,Head,434319.0,Im
-107,C�te d'Ivoire,1019,"Fat, goats",5510,Production,2019,2019,tonnes,124.0,Im
-107,C�te d'Ivoire,1037,"Fat, pigs",5320,Producing Animals/Slaughtered,2019,2019,Head,225642.0,Im
-107,C�te d'Ivoire,1037,"Fat, pigs",5510,Production,2019,2019,tonnes,435.0,Im
-107,C�te d'Ivoire,979,"Fat, sheep",5320,Producing Animals/Slaughtered,2019,2019,Head,592308.0,Im
-107,C�te d'Ivoire,979,"Fat, sheep",5510,Production,2019,2019,tonnes,245.0,Im
-107,C�te d'Ivoire,919,"Hides, cattle, fresh",5320,Producing Animals/Slaughtered,2019,2019,Head,289240.0,Im
-107,C�te d'Ivoire,919,"Hides, cattle, fresh",5420,Yield,2019,2019,hg/An,142.0,Fc
-107,C�te d'Ivoire,919,"Hides, cattle, fresh",5510,Production,2019,2019,tonnes,4121.0,Im
-107,C�te d'Ivoire,1182,"Honey, natural",5510,Production,2019,2019,tonnes,611.0,Im
-107,C�te d'Ivoire,1166,Meat nes,5510,Production,2019,2019,tonnes,33482.0,Im
-107,C�te d'Ivoire,867,"Meat, cattle",5320,Producing Animals/Slaughtered,2019,2019,Head,289240.0,Im
-107,C�te d'Ivoire,867,"Meat, cattle",5417,Yield/Carcass Weight,2019,2019,hg/An,1079.0,Fc
-107,C�te d'Ivoire,867,"Meat, cattle",5510,Production,2019,2019,tonnes,31220.0,Im
-107,C�te d'Ivoire,1058,"Meat, chicken",5321,Producing Animals/Slaughtered,2019,2019,1000 Head,57391.0,Im
-107,C�te d'Ivoire,1058,"Meat, chicken",5424,Yield/Carcass Weight,2019,2019,0.1g/An,9296.0,Fc
-107,C�te d'Ivoire,1058,"Meat, chicken",5510,Production,2019,2019,tonnes,53349.0,Im
-107,C�te d'Ivoire,1163,"Meat, game",5510,Production,2019,2019,tonnes,156700.0,Im
-107,C�te d'Ivoire,1017,"Meat, goat",5320,Producing Animals/Slaughtered,2019,2019,Head,434319.0,Im
-107,C�te d'Ivoire,1017,"Meat, goat",5417,Yield/Carcass Weight,2019,2019,hg/An,95.0,Fc
-107,C�te d'Ivoire,1017,"Meat, goat",5510,Production,2019,2019,tonnes,4135.0,Im
-107,C�te d'Ivoire,1035,"Meat, pig",5320,Producing Animals/Slaughtered,2019,2019,Head,225642.0,Im
-107,C�te d'Ivoire,1035,"Meat, pig",5417,Yield/Carcass Weight,2019,2019,hg/An,321.0,Fc
-107,C�te d'Ivoire,1035,"Meat, pig",5510,Production,2019,2019,tonnes,7249.0,Im
-107,C�te d'Ivoire,977,"Meat, sheep",5320,Producing Animals/Slaughtered,2019,2019,Head,592308.0,Im
-107,C�te d'Ivoire,977,"Meat, sheep",5417,Yield/Carcass Weight,2019,2019,hg/An,138.0,Fc
-107,C�te d'Ivoire,977,"Meat, sheep",5510,Production,2019,2019,tonnes,8163.0,Im
-107,C�te d'Ivoire,882,"Milk, whole fresh cow",5318,Milk Animals,2019,2019,Head,228524.0,Im
-107,C�te d'Ivoire,882,"Milk, whole fresh cow",5420,Yield,2019,2019,hg/An,1331.0,Fc
-107,C�te d'Ivoire,882,"Milk, whole fresh cow",5510,Production,2019,2019,tonnes,30427.0,Im
-107,C�te d'Ivoire,868,"Offals, edible, cattle",5320,Producing Animals/Slaughtered,2019,2019,Head,289240.0,Im
-107,C�te d'Ivoire,868,"Offals, edible, cattle",5510,Production,2019,2019,tonnes,6869.0,Im
-107,C�te d'Ivoire,1018,"Offals, edible, goats",5320,Producing Animals/Slaughtered,2019,2019,Head,434319.0,Im
-107,C�te d'Ivoire,1018,"Offals, edible, goats",5510,Production,2019,2019,tonnes,992.0,Im
-107,C�te d'Ivoire,1036,"Offals, pigs, edible",5320,Producing Animals/Slaughtered,2019,2019,Head,225642.0,Im
-107,C�te d'Ivoire,1036,"Offals, pigs, edible",5510,Production,2019,2019,tonnes,362.0,Im
-107,C�te d'Ivoire,978,"Offals, sheep,edible",5320,Producing Animals/Slaughtered,2019,2019,Head,592308.0,Im
-107,C�te d'Ivoire,978,"Offals, sheep,edible",5510,Production,2019,2019,tonnes,1959.0,Im
-107,C�te d'Ivoire,1025,"Skins, goat, fresh",5320,Producing Animals/Slaughtered,2019,2019,Head,434319.0,Im
-107,C�te d'Ivoire,1025,"Skins, goat, fresh",5420,Yield,2019,2019,hg/An,23.0,Fc
-107,C�te d'Ivoire,1025,"Skins, goat, fresh",5510,Production,2019,2019,tonnes,992.0,Im
-107,C�te d'Ivoire,995,"Skins, sheep, fresh",5320,Producing Animals/Slaughtered,2019,2019,Head,592308.0,Im
-107,C�te d'Ivoire,995,"Skins, sheep, fresh",5420,Yield,2019,2019,hg/An,33.0,Fc
-107,C�te d'Ivoire,995,"Skins, sheep, fresh",5510,Production,2019,2019,tonnes,1959.0,Im
-107,C�te d'Ivoire,1176,"Snails, not sea",5510,Production,2019,2019,tonnes,303.0,Im
-107,C�te d'Ivoire,1806,Beef and Buffalo Meat,5320,Producing Animals/Slaughtered,2019,2019,Head,289240.0,A
-107,C�te d'Ivoire,1806,Beef and Buffalo Meat,5417,Yield/Carcass Weight,2019,2019,hg/An,1079.0,Fc
-107,C�te d'Ivoire,1806,Beef and Buffalo Meat,5510,Production,2019,2019,tonnes,31220.0,A
-107,C�te d'Ivoire,1783,Eggs Primary,5313,Laying,2019,2019,1000 Head,12346.0,A
-107,C�te d'Ivoire,1783,Eggs Primary,5410,Yield,2019,2019,100mg/An,38879.0,Fc
-107,C�te d'Ivoire,1783,Eggs Primary,5510,Production,2019,2019,tonnes,48000.0,A
-107,C�te d'Ivoire,1808,"Meat, Poultry",5321,Producing Animals/Slaughtered,2019,2019,1000 Head,57391.0,A
-107,C�te d'Ivoire,1808,"Meat, Poultry",5424,Yield/Carcass Weight,2019,2019,0.1g/An,9296.0,Fc
-107,C�te d'Ivoire,1808,"Meat, Poultry",5510,Production,2019,2019,tonnes,53349.0,A
-107,C�te d'Ivoire,1765,"Meat, Total",5510,Production,2019,2019,tonnes,294601.0,A
-107,C�te d'Ivoire,1780,"Milk, Total",5318,Milk Animals,2019,2019,Head,228524.0,A
-107,C�te d'Ivoire,1780,"Milk, Total",5420,Yield,2019,2019,hg/An,1331.0,Fc
-107,C�te d'Ivoire,1780,"Milk, Total",5510,Production,2019,2019,tonnes,30427.0,A
-107,C�te d'Ivoire,1807,Sheep and Goat Meat,5320,Producing Animals/Slaughtered,2019,2019,Head,1026627.0,A
-107,C�te d'Ivoire,1807,Sheep and Goat Meat,5417,Yield/Carcass Weight,2019,2019,hg/An,120.0,Fc
-107,C�te d'Ivoire,1807,Sheep and Goat Meat,5510,Production,2019,2019,tonnes,12298.0,A
+107,Côte d'Ivoire,1062,"Eggs, hen, in shell",5313,Laying,2019,2019,1000 Head,12346.0,Im
+107,Côte d'Ivoire,1062,"Eggs, hen, in shell",5410,Yield,2019,2019,100mg/An,38879.0,Fc
+107,Côte d'Ivoire,1062,"Eggs, hen, in shell",5510,Production,2019,2019,tonnes,48000.0,Im
+107,Côte d'Ivoire,1067,"Eggs, hen, in shell (number)",5513,Production,2019,2019,1000 No,1066660.0,Im
+107,Côte d'Ivoire,869,"Fat, cattle",5320,Producing Animals/Slaughtered,2019,2019,Head,289240.0,Im
+107,Côte d'Ivoire,869,"Fat, cattle",5510,Production,2019,2019,tonnes,937.0,Im
+107,Côte d'Ivoire,1019,"Fat, goats",5320,Producing Animals/Slaughtered,2019,2019,Head,434319.0,Im
+107,Côte d'Ivoire,1019,"Fat, goats",5510,Production,2019,2019,tonnes,124.0,Im
+107,Côte d'Ivoire,1037,"Fat, pigs",5320,Producing Animals/Slaughtered,2019,2019,Head,225642.0,Im
+107,Côte d'Ivoire,1037,"Fat, pigs",5510,Production,2019,2019,tonnes,435.0,Im
+107,Côte d'Ivoire,979,"Fat, sheep",5320,Producing Animals/Slaughtered,2019,2019,Head,592308.0,Im
+107,Côte d'Ivoire,979,"Fat, sheep",5510,Production,2019,2019,tonnes,245.0,Im
+107,Côte d'Ivoire,919,"Hides, cattle, fresh",5320,Producing Animals/Slaughtered,2019,2019,Head,289240.0,Im
+107,Côte d'Ivoire,919,"Hides, cattle, fresh",5420,Yield,2019,2019,hg/An,142.0,Fc
+107,Côte d'Ivoire,919,"Hides, cattle, fresh",5510,Production,2019,2019,tonnes,4121.0,Im
+107,Côte d'Ivoire,1182,"Honey, natural",5510,Production,2019,2019,tonnes,611.0,Im
+107,Côte d'Ivoire,1166,Meat nes,5510,Production,2019,2019,tonnes,33482.0,Im
+107,Côte d'Ivoire,867,"Meat, cattle",5320,Producing Animals/Slaughtered,2019,2019,Head,289240.0,Im
+107,Côte d'Ivoire,867,"Meat, cattle",5417,Yield/Carcass Weight,2019,2019,hg/An,1079.0,Fc
+107,Côte d'Ivoire,867,"Meat, cattle",5510,Production,2019,2019,tonnes,31220.0,Im
+107,Côte d'Ivoire,1058,"Meat, chicken",5321,Producing Animals/Slaughtered,2019,2019,1000 Head,57391.0,Im
+107,Côte d'Ivoire,1058,"Meat, chicken",5424,Yield/Carcass Weight,2019,2019,0.1g/An,9296.0,Fc
+107,Côte d'Ivoire,1058,"Meat, chicken",5510,Production,2019,2019,tonnes,53349.0,Im
+107,Côte d'Ivoire,1163,"Meat, game",5510,Production,2019,2019,tonnes,156700.0,Im
+107,Côte d'Ivoire,1017,"Meat, goat",5320,Producing Animals/Slaughtered,2019,2019,Head,434319.0,Im
+107,Côte d'Ivoire,1017,"Meat, goat",5417,Yield/Carcass Weight,2019,2019,hg/An,95.0,Fc
+107,Côte d'Ivoire,1017,"Meat, goat",5510,Production,2019,2019,tonnes,4135.0,Im
+107,Côte d'Ivoire,1035,"Meat, pig",5320,Producing Animals/Slaughtered,2019,2019,Head,225642.0,Im
+107,Côte d'Ivoire,1035,"Meat, pig",5417,Yield/Carcass Weight,2019,2019,hg/An,321.0,Fc
+107,Côte d'Ivoire,1035,"Meat, pig",5510,Production,2019,2019,tonnes,7249.0,Im
+107,Côte d'Ivoire,977,"Meat, sheep",5320,Producing Animals/Slaughtered,2019,2019,Head,592308.0,Im
+107,Côte d'Ivoire,977,"Meat, sheep",5417,Yield/Carcass Weight,2019,2019,hg/An,138.0,Fc
+107,Côte d'Ivoire,977,"Meat, sheep",5510,Production,2019,2019,tonnes,8163.0,Im
+107,Côte d'Ivoire,882,"Milk, whole fresh cow",5318,Milk Animals,2019,2019,Head,228524.0,Im
+107,Côte d'Ivoire,882,"Milk, whole fresh cow",5420,Yield,2019,2019,hg/An,1331.0,Fc
+107,Côte d'Ivoire,882,"Milk, whole fresh cow",5510,Production,2019,2019,tonnes,30427.0,Im
+107,Côte d'Ivoire,868,"Offals, edible, cattle",5320,Producing Animals/Slaughtered,2019,2019,Head,289240.0,Im
+107,Côte d'Ivoire,868,"Offals, edible, cattle",5510,Production,2019,2019,tonnes,6869.0,Im
+107,Côte d'Ivoire,1018,"Offals, edible, goats",5320,Producing Animals/Slaughtered,2019,2019,Head,434319.0,Im
+107,Côte d'Ivoire,1018,"Offals, edible, goats",5510,Production,2019,2019,tonnes,992.0,Im
+107,Côte d'Ivoire,1036,"Offals, pigs, edible",5320,Producing Animals/Slaughtered,2019,2019,Head,225642.0,Im
+107,Côte d'Ivoire,1036,"Offals, pigs, edible",5510,Production,2019,2019,tonnes,362.0,Im
+107,Côte d'Ivoire,978,"Offals, sheep,edible",5320,Producing Animals/Slaughtered,2019,2019,Head,592308.0,Im
+107,Côte d'Ivoire,978,"Offals, sheep,edible",5510,Production,2019,2019,tonnes,1959.0,Im
+107,Côte d'Ivoire,1025,"Skins, goat, fresh",5320,Producing Animals/Slaughtered,2019,2019,Head,434319.0,Im
+107,Côte d'Ivoire,1025,"Skins, goat, fresh",5420,Yield,2019,2019,hg/An,23.0,Fc
+107,Côte d'Ivoire,1025,"Skins, goat, fresh",5510,Production,2019,2019,tonnes,992.0,Im
+107,Côte d'Ivoire,995,"Skins, sheep, fresh",5320,Producing Animals/Slaughtered,2019,2019,Head,592308.0,Im
+107,Côte d'Ivoire,995,"Skins, sheep, fresh",5420,Yield,2019,2019,hg/An,33.0,Fc
+107,Côte d'Ivoire,995,"Skins, sheep, fresh",5510,Production,2019,2019,tonnes,1959.0,Im
+107,Côte d'Ivoire,1176,"Snails, not sea",5510,Production,2019,2019,tonnes,303.0,Im
+107,Côte d'Ivoire,1806,Beef and Buffalo Meat,5320,Producing Animals/Slaughtered,2019,2019,Head,289240.0,A
+107,Côte d'Ivoire,1806,Beef and Buffalo Meat,5417,Yield/Carcass Weight,2019,2019,hg/An,1079.0,Fc
+107,Côte d'Ivoire,1806,Beef and Buffalo Meat,5510,Production,2019,2019,tonnes,31220.0,A
+107,Côte d'Ivoire,1783,Eggs Primary,5313,Laying,2019,2019,1000 Head,12346.0,A
+107,Côte d'Ivoire,1783,Eggs Primary,5410,Yield,2019,2019,100mg/An,38879.0,Fc
+107,Côte d'Ivoire,1783,Eggs Primary,5510,Production,2019,2019,tonnes,48000.0,A
+107,Côte d'Ivoire,1808,"Meat, Poultry",5321,Producing Animals/Slaughtered,2019,2019,1000 Head,57391.0,A
+107,Côte d'Ivoire,1808,"Meat, Poultry",5424,Yield/Carcass Weight,2019,2019,0.1g/An,9296.0,Fc
+107,Côte d'Ivoire,1808,"Meat, Poultry",5510,Production,2019,2019,tonnes,53349.0,A
+107,Côte d'Ivoire,1765,"Meat, Total",5510,Production,2019,2019,tonnes,294601.0,A
+107,Côte d'Ivoire,1780,"Milk, Total",5318,Milk Animals,2019,2019,Head,228524.0,A
+107,Côte d'Ivoire,1780,"Milk, Total",5420,Yield,2019,2019,hg/An,1331.0,Fc
+107,Côte d'Ivoire,1780,"Milk, Total",5510,Production,2019,2019,tonnes,30427.0,A
+107,Côte d'Ivoire,1807,Sheep and Goat Meat,5320,Producing Animals/Slaughtered,2019,2019,Head,1026627.0,A
+107,Côte d'Ivoire,1807,Sheep and Goat Meat,5417,Yield/Carcass Weight,2019,2019,hg/An,120.0,Fc
+107,Côte d'Ivoire,1807,Sheep and Goat Meat,5510,Production,2019,2019,tonnes,12298.0,A
 98,Croatia,1183,Beeswax,5314,Prod Popultn,2019,2019,No,418657.0,
 98,Croatia,1062,"Eggs, hen, in shell",5410,Yield,2019,2019,100mg/An,111641.0,Fc
 98,Croatia,1062,"Eggs, hen, in shell",5510,Production,2019,2019,tonnes,30143.0,*
@@ -13348,81 +13348,81 @@ Area Code,Area,Item Code,Item,Element Code,Element,Year Code,Year,Unit,Value,Fla
 225,United Arab Emirates,1807,Sheep and Goat Meat,5320,Producing Animals/Slaughtered,2019,2019,Head,4078188.0,A
 225,United Arab Emirates,1807,Sheep and Goat Meat,5417,Yield/Carcass Weight,2019,2019,hg/An,161.0,Fc
 225,United Arab Emirates,1807,Sheep and Goat Meat,5510,Production,2019,2019,tonnes,65761.0,A
-229,United Kingdom of Great Britain and Northern Ireland,1183,Beeswax,5314,Prod Popultn,2019,2019,No,,M
-229,United Kingdom of Great Britain and Northern Ireland,1062,"Eggs, hen, in shell",5313,Laying,2019,2019,1000 Head,57183.0,Im
-229,United Kingdom of Great Britain and Northern Ireland,1062,"Eggs, hen, in shell",5410,Yield,2019,2019,100mg/An,139377.0,Fc
-229,United Kingdom of Great Britain and Northern Ireland,1062,"Eggs, hen, in shell",5510,Production,2019,2019,tonnes,797000.0,
-229,United Kingdom of Great Britain and Northern Ireland,1067,"Eggs, hen, in shell (number)",5513,Production,2019,2019,1000 No,13643000.0,
-229,United Kingdom of Great Britain and Northern Ireland,1091,"Eggs, other bird, in shell",5510,Production,2019,2019,tonnes,14000.0,
-229,United Kingdom of Great Britain and Northern Ireland,1092,"Eggs, other bird, in shell (number)",5513,Production,2019,2019,1000 No,237400.0,*
-229,United Kingdom of Great Britain and Northern Ireland,869,"Fat, cattle",5320,Producing Animals/Slaughtered,2019,2019,Head,2826000.0,
-229,United Kingdom of Great Britain and Northern Ireland,869,"Fat, cattle",5510,Production,2019,2019,tonnes,55856.0,Im
-229,United Kingdom of Great Britain and Northern Ireland,1037,"Fat, pigs",5320,Producing Animals/Slaughtered,2019,2019,Head,11134000.0,
-229,United Kingdom of Great Britain and Northern Ireland,1037,"Fat, pigs",5510,Production,2019,2019,tonnes,60632.0,Im
-229,United Kingdom of Great Britain and Northern Ireland,979,"Fat, sheep",5320,Producing Animals/Slaughtered,2019,2019,Head,14852000.0,
-229,United Kingdom of Great Britain and Northern Ireland,979,"Fat, sheep",5510,Production,2019,2019,tonnes,16253.0,Im
-229,United Kingdom of Great Britain and Northern Ireland,919,"Hides, cattle, fresh",5320,Producing Animals/Slaughtered,2019,2019,Head,2826000.0,
-229,United Kingdom of Great Britain and Northern Ireland,919,"Hides, cattle, fresh",5420,Yield,2019,2019,hg/An,299.0,Fc
-229,United Kingdom of Great Britain and Northern Ireland,919,"Hides, cattle, fresh",5510,Production,2019,2019,tonnes,84630.0,Im
-229,United Kingdom of Great Britain and Northern Ireland,1182,"Honey, natural",5314,Prod Popultn,2019,2019,No,,M
-229,United Kingdom of Great Britain and Northern Ireland,1182,"Honey, natural",5510,Production,2019,2019,tonnes,9919.0,Im
-229,United Kingdom of Great Britain and Northern Ireland,1166,Meat nes,5510,Production,2019,2019,tonnes,1996.0,Im
-229,United Kingdom of Great Britain and Northern Ireland,867,"Meat, cattle",5320,Producing Animals/Slaughtered,2019,2019,Head,2826000.0,
-229,United Kingdom of Great Britain and Northern Ireland,867,"Meat, cattle",5417,Yield/Carcass Weight,2019,2019,hg/An,3234.0,Fc
-229,United Kingdom of Great Britain and Northern Ireland,867,"Meat, cattle",5510,Production,2019,2019,tonnes,914000.0,
-229,United Kingdom of Great Britain and Northern Ireland,1058,"Meat, chicken",5321,Producing Animals/Slaughtered,2019,2019,1000 Head,1108000.0,
-229,United Kingdom of Great Britain and Northern Ireland,1058,"Meat, chicken",5424,Yield/Carcass Weight,2019,2019,0.1g/An,15551.0,Fc
-229,United Kingdom of Great Britain and Northern Ireland,1058,"Meat, chicken",5510,Production,2019,2019,tonnes,1723000.0,
-229,United Kingdom of Great Britain and Northern Ireland,1069,"Meat, duck",5321,Producing Animals/Slaughtered,2019,2019,1000 Head,13200.0,
-229,United Kingdom of Great Britain and Northern Ireland,1069,"Meat, duck",5424,Yield/Carcass Weight,2019,2019,0.1g/An,21136.0,Fc
-229,United Kingdom of Great Britain and Northern Ireland,1069,"Meat, duck",5510,Production,2019,2019,tonnes,27900.0,
-229,United Kingdom of Great Britain and Northern Ireland,1163,"Meat, game",5510,Production,2019,2019,tonnes,4755.0,Im
-229,United Kingdom of Great Britain and Northern Ireland,1073,"Meat, goose and guinea fowl",5321,Producing Animals/Slaughtered,2019,2019,1000 Head,571.0,Im
-229,United Kingdom of Great Britain and Northern Ireland,1073,"Meat, goose and guinea fowl",5424,Yield/Carcass Weight,2019,2019,0.1g/An,46900.0,Fc
-229,United Kingdom of Great Britain and Northern Ireland,1073,"Meat, goose and guinea fowl",5510,Production,2019,2019,tonnes,2678.0,Im
-229,United Kingdom of Great Britain and Northern Ireland,1097,"Meat, horse",5320,Producing Animals/Slaughtered,2019,2019,Head,19276.0,Im
-229,United Kingdom of Great Britain and Northern Ireland,1097,"Meat, horse",5417,Yield/Carcass Weight,2019,2019,hg/An,1540.0,Fc
-229,United Kingdom of Great Britain and Northern Ireland,1097,"Meat, horse",5510,Production,2019,2019,tonnes,2969.0,Im
-229,United Kingdom of Great Britain and Northern Ireland,1035,"Meat, pig",5320,Producing Animals/Slaughtered,2019,2019,Head,11134000.0,
-229,United Kingdom of Great Britain and Northern Ireland,1035,"Meat, pig",5417,Yield/Carcass Weight,2019,2019,hg/An,862.0,Fc
-229,United Kingdom of Great Britain and Northern Ireland,1035,"Meat, pig",5510,Production,2019,2019,tonnes,960000.0,
-229,United Kingdom of Great Britain and Northern Ireland,977,"Meat, sheep",5320,Producing Animals/Slaughtered,2019,2019,Head,14852000.0,
-229,United Kingdom of Great Britain and Northern Ireland,977,"Meat, sheep",5417,Yield/Carcass Weight,2019,2019,hg/An,207.0,Fc
-229,United Kingdom of Great Britain and Northern Ireland,977,"Meat, sheep",5510,Production,2019,2019,tonnes,307000.0,
-229,United Kingdom of Great Britain and Northern Ireland,1080,"Meat, turkey",5321,Producing Animals/Slaughtered,2019,2019,1000 Head,14400.0,
-229,United Kingdom of Great Britain and Northern Ireland,1080,"Meat, turkey",5424,Yield/Carcass Weight,2019,2019,0.1g/An,102778.0,Fc
-229,United Kingdom of Great Britain and Northern Ireland,1080,"Meat, turkey",5510,Production,2019,2019,tonnes,148000.0,
-229,United Kingdom of Great Britain and Northern Ireland,882,"Milk, whole fresh cow",5318,Milk Animals,2019,2019,Head,1870000.0,
-229,United Kingdom of Great Britain and Northern Ireland,882,"Milk, whole fresh cow",5420,Yield,2019,2019,hg/An,83166.0,Fc
-229,United Kingdom of Great Britain and Northern Ireland,882,"Milk, whole fresh cow",5510,Production,2019,2019,tonnes,15552000.0,
-229,United Kingdom of Great Britain and Northern Ireland,868,"Offals, edible, cattle",5320,Producing Animals/Slaughtered,2019,2019,Head,2826000.0,
-229,United Kingdom of Great Britain and Northern Ireland,868,"Offals, edible, cattle",5510,Production,2019,2019,tonnes,86322.0,Im
-229,United Kingdom of Great Britain and Northern Ireland,1098,"Offals, horses",5320,Producing Animals/Slaughtered,2019,2019,Head,19276.0,Im
-229,United Kingdom of Great Britain and Northern Ireland,1098,"Offals, horses",5510,Production,2019,2019,tonnes,309.0,Im
-229,United Kingdom of Great Britain and Northern Ireland,1036,"Offals, pigs, edible",5320,Producing Animals/Slaughtered,2019,2019,Head,11134000.0,
-229,United Kingdom of Great Britain and Northern Ireland,1036,"Offals, pigs, edible",5510,Production,2019,2019,tonnes,31579.0,Im
-229,United Kingdom of Great Britain and Northern Ireland,978,"Offals, sheep,edible",5320,Producing Animals/Slaughtered,2019,2019,Head,14852000.0,
-229,United Kingdom of Great Britain and Northern Ireland,978,"Offals, sheep,edible",5510,Production,2019,2019,tonnes,43943.0,Im
-229,United Kingdom of Great Britain and Northern Ireland,995,"Skins, sheep, fresh",5320,Producing Animals/Slaughtered,2019,2019,Head,14852000.0,
-229,United Kingdom of Great Britain and Northern Ireland,995,"Skins, sheep, fresh",5420,Yield,2019,2019,hg/An,45.0,Fc
-229,United Kingdom of Great Britain and Northern Ireland,995,"Skins, sheep, fresh",5510,Production,2019,2019,tonnes,66216.0,Im
-229,United Kingdom of Great Britain and Northern Ireland,987,"Wool, greasy",5510,Production,2019,2019,tonnes,70467.0,Im
-229,United Kingdom of Great Britain and Northern Ireland,1806,Beef and Buffalo Meat,5320,Producing Animals/Slaughtered,2019,2019,Head,2826000.0,A
-229,United Kingdom of Great Britain and Northern Ireland,1806,Beef and Buffalo Meat,5417,Yield/Carcass Weight,2019,2019,hg/An,3234.0,Fc
-229,United Kingdom of Great Britain and Northern Ireland,1806,Beef and Buffalo Meat,5510,Production,2019,2019,tonnes,914000.0,A
-229,United Kingdom of Great Britain and Northern Ireland,1783,Eggs Primary,5313,Laying,2019,2019,1000 Head,57183.0,A
-229,United Kingdom of Great Britain and Northern Ireland,1783,Eggs Primary,5410,Yield,2019,2019,100mg/An,141825.0,Fc
-229,United Kingdom of Great Britain and Northern Ireland,1783,Eggs Primary,5510,Production,2019,2019,tonnes,811000.0,A
-229,United Kingdom of Great Britain and Northern Ireland,1808,"Meat, Poultry",5321,Producing Animals/Slaughtered,2019,2019,1000 Head,1136171.0,A
-229,United Kingdom of Great Britain and Northern Ireland,1808,"Meat, Poultry",5424,Yield/Carcass Weight,2019,2019,0.1g/An,16737.0,Fc
-229,United Kingdom of Great Britain and Northern Ireland,1808,"Meat, Poultry",5510,Production,2019,2019,tonnes,1901578.0,A
-229,United Kingdom of Great Britain and Northern Ireland,1765,"Meat, Total",5510,Production,2019,2019,tonnes,4092298.0,A
-229,United Kingdom of Great Britain and Northern Ireland,1780,"Milk, Total",5318,Milk Animals,2019,2019,Head,1870000.0,A
-229,United Kingdom of Great Britain and Northern Ireland,1780,"Milk, Total",5420,Yield,2019,2019,hg/An,83166.0,Fc
-229,United Kingdom of Great Britain and Northern Ireland,1780,"Milk, Total",5510,Production,2019,2019,tonnes,15552000.0,A
-229,United Kingdom of Great Britain and Northern Ireland,1807,Sheep and Goat Meat,5320,Producing Animals/Slaughtered,2019,2019,Head,14852000.0,A
-229,United Kingdom of Great Britain and Northern Ireland,1807,Sheep and Goat Meat,5417,Yield/Carcass Weight,2019,2019,hg/An,207.0,Fc
-229,United Kingdom of Great Britain and Northern Ireland,1807,Sheep and Goat Meat,5510,Production,2019,2019,tonnes,307000.0,A
+229,United Kingdom,1183,Beeswax,5314,Prod Popultn,2019,2019,No,,M
+229,United Kingdom,1062,"Eggs, hen, in shell",5313,Laying,2019,2019,1000 Head,57183.0,Im
+229,United Kingdom,1062,"Eggs, hen, in shell",5410,Yield,2019,2019,100mg/An,139377.0,Fc
+229,United Kingdom,1062,"Eggs, hen, in shell",5510,Production,2019,2019,tonnes,797000.0,
+229,United Kingdom,1067,"Eggs, hen, in shell (number)",5513,Production,2019,2019,1000 No,13643000.0,
+229,United Kingdom,1091,"Eggs, other bird, in shell",5510,Production,2019,2019,tonnes,14000.0,
+229,United Kingdom,1092,"Eggs, other bird, in shell (number)",5513,Production,2019,2019,1000 No,237400.0,*
+229,United Kingdom,869,"Fat, cattle",5320,Producing Animals/Slaughtered,2019,2019,Head,2826000.0,
+229,United Kingdom,869,"Fat, cattle",5510,Production,2019,2019,tonnes,55856.0,Im
+229,United Kingdom,1037,"Fat, pigs",5320,Producing Animals/Slaughtered,2019,2019,Head,11134000.0,
+229,United Kingdom,1037,"Fat, pigs",5510,Production,2019,2019,tonnes,60632.0,Im
+229,United Kingdom,979,"Fat, sheep",5320,Producing Animals/Slaughtered,2019,2019,Head,14852000.0,
+229,United Kingdom,979,"Fat, sheep",5510,Production,2019,2019,tonnes,16253.0,Im
+229,United Kingdom,919,"Hides, cattle, fresh",5320,Producing Animals/Slaughtered,2019,2019,Head,2826000.0,
+229,United Kingdom,919,"Hides, cattle, fresh",5420,Yield,2019,2019,hg/An,299.0,Fc
+229,United Kingdom,919,"Hides, cattle, fresh",5510,Production,2019,2019,tonnes,84630.0,Im
+229,United Kingdom,1182,"Honey, natural",5314,Prod Popultn,2019,2019,No,,M
+229,United Kingdom,1182,"Honey, natural",5510,Production,2019,2019,tonnes,9919.0,Im
+229,United Kingdom,1166,Meat nes,5510,Production,2019,2019,tonnes,1996.0,Im
+229,United Kingdom,867,"Meat, cattle",5320,Producing Animals/Slaughtered,2019,2019,Head,2826000.0,
+229,United Kingdom,867,"Meat, cattle",5417,Yield/Carcass Weight,2019,2019,hg/An,3234.0,Fc
+229,United Kingdom,867,"Meat, cattle",5510,Production,2019,2019,tonnes,914000.0,
+229,United Kingdom,1058,"Meat, chicken",5321,Producing Animals/Slaughtered,2019,2019,1000 Head,1108000.0,
+229,United Kingdom,1058,"Meat, chicken",5424,Yield/Carcass Weight,2019,2019,0.1g/An,15551.0,Fc
+229,United Kingdom,1058,"Meat, chicken",5510,Production,2019,2019,tonnes,1723000.0,
+229,United Kingdom,1069,"Meat, duck",5321,Producing Animals/Slaughtered,2019,2019,1000 Head,13200.0,
+229,United Kingdom,1069,"Meat, duck",5424,Yield/Carcass Weight,2019,2019,0.1g/An,21136.0,Fc
+229,United Kingdom,1069,"Meat, duck",5510,Production,2019,2019,tonnes,27900.0,
+229,United Kingdom,1163,"Meat, game",5510,Production,2019,2019,tonnes,4755.0,Im
+229,United Kingdom,1073,"Meat, goose and guinea fowl",5321,Producing Animals/Slaughtered,2019,2019,1000 Head,571.0,Im
+229,United Kingdom,1073,"Meat, goose and guinea fowl",5424,Yield/Carcass Weight,2019,2019,0.1g/An,46900.0,Fc
+229,United Kingdom,1073,"Meat, goose and guinea fowl",5510,Production,2019,2019,tonnes,2678.0,Im
+229,United Kingdom,1097,"Meat, horse",5320,Producing Animals/Slaughtered,2019,2019,Head,19276.0,Im
+229,United Kingdom,1097,"Meat, horse",5417,Yield/Carcass Weight,2019,2019,hg/An,1540.0,Fc
+229,United Kingdom,1097,"Meat, horse",5510,Production,2019,2019,tonnes,2969.0,Im
+229,United Kingdom,1035,"Meat, pig",5320,Producing Animals/Slaughtered,2019,2019,Head,11134000.0,
+229,United Kingdom,1035,"Meat, pig",5417,Yield/Carcass Weight,2019,2019,hg/An,862.0,Fc
+229,United Kingdom,1035,"Meat, pig",5510,Production,2019,2019,tonnes,960000.0,
+229,United Kingdom,977,"Meat, sheep",5320,Producing Animals/Slaughtered,2019,2019,Head,14852000.0,
+229,United Kingdom,977,"Meat, sheep",5417,Yield/Carcass Weight,2019,2019,hg/An,207.0,Fc
+229,United Kingdom,977,"Meat, sheep",5510,Production,2019,2019,tonnes,307000.0,
+229,United Kingdom,1080,"Meat, turkey",5321,Producing Animals/Slaughtered,2019,2019,1000 Head,14400.0,
+229,United Kingdom,1080,"Meat, turkey",5424,Yield/Carcass Weight,2019,2019,0.1g/An,102778.0,Fc
+229,United Kingdom,1080,"Meat, turkey",5510,Production,2019,2019,tonnes,148000.0,
+229,United Kingdom,882,"Milk, whole fresh cow",5318,Milk Animals,2019,2019,Head,1870000.0,
+229,United Kingdom,882,"Milk, whole fresh cow",5420,Yield,2019,2019,hg/An,83166.0,Fc
+229,United Kingdom,882,"Milk, whole fresh cow",5510,Production,2019,2019,tonnes,15552000.0,
+229,United Kingdom,868,"Offals, edible, cattle",5320,Producing Animals/Slaughtered,2019,2019,Head,2826000.0,
+229,United Kingdom,868,"Offals, edible, cattle",5510,Production,2019,2019,tonnes,86322.0,Im
+229,United Kingdom,1098,"Offals, horses",5320,Producing Animals/Slaughtered,2019,2019,Head,19276.0,Im
+229,United Kingdom,1098,"Offals, horses",5510,Production,2019,2019,tonnes,309.0,Im
+229,United Kingdom,1036,"Offals, pigs, edible",5320,Producing Animals/Slaughtered,2019,2019,Head,11134000.0,
+229,United Kingdom,1036,"Offals, pigs, edible",5510,Production,2019,2019,tonnes,31579.0,Im
+229,United Kingdom,978,"Offals, sheep,edible",5320,Producing Animals/Slaughtered,2019,2019,Head,14852000.0,
+229,United Kingdom,978,"Offals, sheep,edible",5510,Production,2019,2019,tonnes,43943.0,Im
+229,United Kingdom,995,"Skins, sheep, fresh",5320,Producing Animals/Slaughtered,2019,2019,Head,14852000.0,
+229,United Kingdom,995,"Skins, sheep, fresh",5420,Yield,2019,2019,hg/An,45.0,Fc
+229,United Kingdom,995,"Skins, sheep, fresh",5510,Production,2019,2019,tonnes,66216.0,Im
+229,United Kingdom,987,"Wool, greasy",5510,Production,2019,2019,tonnes,70467.0,Im
+229,United Kingdom,1806,Beef and Buffalo Meat,5320,Producing Animals/Slaughtered,2019,2019,Head,2826000.0,A
+229,United Kingdom,1806,Beef and Buffalo Meat,5417,Yield/Carcass Weight,2019,2019,hg/An,3234.0,Fc
+229,United Kingdom,1806,Beef and Buffalo Meat,5510,Production,2019,2019,tonnes,914000.0,A
+229,United Kingdom,1783,Eggs Primary,5313,Laying,2019,2019,1000 Head,57183.0,A
+229,United Kingdom,1783,Eggs Primary,5410,Yield,2019,2019,100mg/An,141825.0,Fc
+229,United Kingdom,1783,Eggs Primary,5510,Production,2019,2019,tonnes,811000.0,A
+229,United Kingdom,1808,"Meat, Poultry",5321,Producing Animals/Slaughtered,2019,2019,1000 Head,1136171.0,A
+229,United Kingdom,1808,"Meat, Poultry",5424,Yield/Carcass Weight,2019,2019,0.1g/An,16737.0,Fc
+229,United Kingdom,1808,"Meat, Poultry",5510,Production,2019,2019,tonnes,1901578.0,A
+229,United Kingdom,1765,"Meat, Total",5510,Production,2019,2019,tonnes,4092298.0,A
+229,United Kingdom,1780,"Milk, Total",5318,Milk Animals,2019,2019,Head,1870000.0,A
+229,United Kingdom,1780,"Milk, Total",5420,Yield,2019,2019,hg/An,83166.0,Fc
+229,United Kingdom,1780,"Milk, Total",5510,Production,2019,2019,tonnes,15552000.0,A
+229,United Kingdom,1807,Sheep and Goat Meat,5320,Producing Animals/Slaughtered,2019,2019,Head,14852000.0,A
+229,United Kingdom,1807,Sheep and Goat Meat,5417,Yield/Carcass Weight,2019,2019,hg/An,207.0,Fc
+229,United Kingdom,1807,Sheep and Goat Meat,5510,Production,2019,2019,tonnes,307000.0,A
 215,United Republic of Tanzania,1183,Beeswax,5314,Prod Popultn,2019,2019,No,2984290.0,Im
 215,United Republic of Tanzania,1183,Beeswax,5422,Yield,2019,2019,hg,6.0,Fc
 215,United Republic of Tanzania,1183,Beeswax,5510,Production,2019,2019,tonnes,1889.0,Im

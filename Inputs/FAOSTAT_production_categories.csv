@@ -1,6 +1,6 @@
 Item,Category,Category Weight
-Beef and Buffalo Meat,cattle_meat,0
-Eggs Primary,eggs,0
+"Beef and Buffalo Meat",cattle_meat,0
+"Eggs Primary",eggs,0
 "Eggs, hen, in shell",eggs,1
 "Eggs, hen, in shell (number)",eggs,0
 "Eggs, other bird, in shell",eggs,1
@@ -11,7 +11,11 @@ Eggs Primary,eggs,0
 "Meat, buffalo",buffalo_meat,1
 "Meat, camel",camel_meat,1
 "Meat, cattle",cattle_meat,1
+"Meat, beef and veal sausages",cattle_meat,1
+"Meat, beef, preparations",cattle_meat,1
+"Meat, cattle, boneless (beef & veal)",cattle_meat,1
 "Meat, chicken",chicken_meat,1
+"Meat, chicken, canned",chicken_meat,1
 "Meat, duck",duck_meat,1
 "Meat, goat",goat_meat,1
 "Meat, goose and guinea fowl",duck_meat,1
@@ -20,6 +24,8 @@ Eggs Primary,eggs,0
 "Meat, other camelids",camel_meat,1
 "Meat, other rodents",rodent_meat,1
 "Meat, pig",pig_meat,1
+"Meat, port",pig_meat,1
+"Meat, pig sausages",pig_meat,1
 "Meat, rabbit",rabbit_meat,1
 "Meat, sheep",sheep_meat,1
 "Meat, turkey",chicken_meat,1
